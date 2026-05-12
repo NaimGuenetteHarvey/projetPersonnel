@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetpersonnel\\serveur\\controllers\\d\u00E9pensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|solutionrelative:controllers\\d\u00E9pensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetpersonnel\\serveur\\controllers\\revenuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|solutionrelative:controllers\\revenuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetpersonnel\\serveur\\models\\revenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|solutionrelative:models\\revenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetpersonnel\\serveur\\controllers\\investissementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|solutionrelative:controllers\\investissementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetpersonnel\\serveur\\models\\investissement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|solutionrelative:models\\investissement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetpersonnel\\serveur\\models\\d\u00E9pense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|solutionrelative:models\\d\u00E9pense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetpersonnel\\serveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetpersonnel\\serveur\\data\\serveurcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|solutionrelative:data\\serveurcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|c:\\users\\naimg\\onedrive\\bureau\\projetpersonnel\\serveur\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD283E18-365F-4E75-BC65-C9AF746451F9}|serveur.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-22T22:18:42.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RevenusController.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Controllers\\RevenusController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RevenusController.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Controllers\\RevenusController.cs",
+              "RelativeToolTip": "Controllers\\RevenusController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwE4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:18:01.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "D\u00E9penseController.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Controllers\\D\u00E9penseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\D\u00E9penseController.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Controllers\\D\u00E9penseController.cs",
+              "RelativeToolTip": "Controllers\\D\u00E9penseController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:06:21.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "serveurContext.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Data\\serveurContext.cs",
+              "RelativeDocumentMoniker": "Data\\serveurContext.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Data\\serveurContext.cs",
+              "RelativeToolTip": "Data\\serveurContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:19:06.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvestissementsController.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Controllers\\InvestissementsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\InvestissementsController.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Controllers\\InvestissementsController.cs",
+              "RelativeToolTip": "Controllers\\InvestissementsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:17:20.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Revenu.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Models\\Revenu.cs",
+              "RelativeDocumentMoniker": "Models\\Revenu.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Models\\Revenu.cs",
+              "RelativeToolTip": "Models\\Revenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:04:26.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "D\u00E9pense.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Models\\D\u00E9pense.cs",
+              "RelativeDocumentMoniker": "Models\\D\u00E9pense.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Models\\D\u00E9pense.cs",
+              "RelativeToolTip": "Models\\D\u00E9pense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:04:13.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Investissement.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Models\\Investissement.cs",
+              "RelativeDocumentMoniker": "Models\\Investissement.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Models\\Investissement.cs",
+              "RelativeToolTip": "Models\\Investissement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:04:02.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\naimg\\OneDrive\\Bureau\\projetPersonnel\\serveur\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T21:45:06.279Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
